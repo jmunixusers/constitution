@@ -1,6 +1,7 @@
 Constitution of the Unix Users Group
 October 25, 1999
-Authored by David Wilburn
+Authored by David Wilburn,
+As Amended, May 1, 2003.
 
 Article I - Name
    1. This organization shall be called the James Madison University Unix Users
@@ -16,7 +17,7 @@ Article II - Purpose
 Article III - Membership
    1. Any member of the JMU student body or faculty or staff who has not previously
        been revoked membership in the Unix Users Group, may upon request and
-       payment of dues become a voting member of this organization.
+       payment  of dues become a voting member of this organization.
    2. Members have the right to one vote in all elections put to membership vote.
        Members have the right to nominate officer candidates in annual election
        meetings. Members have the right to attend all meetings and events of the
@@ -64,9 +65,10 @@ Article V - Duties of Officers
        minutes to any member who requests said minutes within one week of the
        request. The Secretary shall be responsible for organization publicity, and all
        electronic media of the organization.
-   4. The Treasurer shall collect dues and maintain membership records. The Treasurer
-        shall maintain all financial records, and shall counter-sign with the
-        President, Vice-President, or Faculty Adviser all financial transactions.
+   4. The Treasurer shall collect dues and maintain membership records and access
+        to official communications channels. The Treasurer shall maintain all financial
+        records, and shall counter-sign with the President, Vice-President, or Faculty
+        Adviser all financial transactions.
 
 Article VI - Faculty Adviser
    1. The Faculty Adviser shall be selected by the Executive Council immediately
@@ -166,3 +168,36 @@ Article XI - Ratification
    1. The constitution shall become effective upon approval by a 3/4 vote from the
        membership, the Commission of Student Services and the President of James
        Madison University.
+
+Amendment I - Administration of Unix Users Group Systems
+   1. The UUG Systems Administrator shall be selected by the Executive Council,
+       with the advice of the current Systems Administrator, immediately following the
+       annual election meeting.
+   2. The UUG Systems Administrator shall:
+         1. Provide direct means of contact to all Unix Users Group members and
+             system users.
+         2. Handle account requests in a timely fashion.
+         3. Make reasonable effort that UUG systems be updated and secure at all
+             times.
+         4. Be the liason between the Executive Council and JMU Network Services.
+         5. Assist the UUG and/or Executive Council in matters related to UUG
+            Systems.
+   3. The UUG Systems Administrator may be removed by a 3/4 vote of the
+       Executive Council for:
+         1. Loss of membership in the Unix Users Group.
+         2. Negligence of duties.
+
+Amendment II - Group Communications
+   1. The Unix Users Group official means of communication shall be the web-based
+       forum provided by JMU for UUG use.
+   2. Full access will be provided to all members to the web-based forums.
+   3. Services provided by the UUG.
+         1. Access to any mailing lists or other non-official communications
+             provided as a service by the UUG will be open to the public, and free of
+             charge.
+         2. Subscribers to such services may be removed at the disgression of the
+             administrator of that service for reasons including:
+               1. Illegal activities or harassment of other members.
+               2. Misuse of resources.
+         3. Administrators of public services may be appointed and removed by a 3/4
+             vote of Executive Council.
