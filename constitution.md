@@ -12,13 +12,14 @@ Group. The Unix Users Group is also referred to as the UUG.
 
 ## Article II - Purpose of Organization
 
-This organization is devoted to users of the Unix computer operating system.
-Its mission:
-- To promote Unix awareness and knowledge, and
-- To provide a means of communication between persons having interest in the
-Unix operating system.
+The Unix Users Group is an organization for users of UNIX-like systems, as well
+as users and contributors of a wider open-source software ecosystem. The UUG
+engages in education and advocacy in these areas, and encourages its members
+to develop more effective ways of working with UNIX-like and open systems. The
+UUG also emphasizes sharing of knowledge in these areas and contributing back
+to the global computing community.
 
-## Article III - Membership
+## Article III - Membership and Dues
 
 Membership in this organization is open to all JMU students and will not be
 restricted on the basis of age, ability, ethnicity, gender, national origin,
@@ -26,28 +27,33 @@ race, color, religion, national origin, veteran status, sexual orientation,
 gender identity, or political affiliation except in circumstances outlined in
 federal and state laws.
 
-Students in good standing with the University (2.0 cumulative G.P.A.) are
-eligible for membership after attending or participating in an organization
-event/meeting. As a member, one is required to attend organization meetings
-regularly, pay dues if required, and actively support organization projects.
+The UUG strives to maintain an open door policy for its meetings, so membership
+is not required, and anyone from the university or wider community may attend.
+Membership dues will be set by the officers during the first business meeting,
+and membership will be open the first month of the semester. Dues paying
+members will be eligible to vote in matters when the officers deem it necessary.
+Members will also be eligible to run for officer positions.
+
+Caution should be taken to not make dues a financial burden. Officers may grant
+exemptions on a case-by-case basis to members experiencing a hardship, with
+consideration given to the member's past and expected contributions to club
+meetings and projects.
+
 Membership will be revoked by ½ vote of officers plus ¾ vote from the general
-membership if actions are deemed inappropriate by the membership.
+membership if actions are deemed inappropriate by the membership. Dues are
+non-refundable, regardless of voluntary membership termination or revocation.
 
 ## Article IV - Officers
 
 Election of officers will require a majority vote from the general membership.
-If a candidate fails to receive a majority of votes, a run off election will be
-held within the top two candidates that received the most votes. Members
-interested in becoming an officer must meet the following academic requirement:
-2.2 cumulative G.P.A. The term of office will be one full year (when to when).
-All officers shall comprise the Executive Committee of the organization. The
-Executive Committee shall meet in addition to regular organization meetings.
-The Executive Committee shall appoint such committees that are needed to carry
-out organization goals. The officers and individual duties shall be:
+The term of office will be one full year, from April to April, though outgoing
+officers should spend the remainder of the year ensuring the incoming officers
+are prepared for their new duties. All officers shall comprise the Executive
+Committee of the organization. The Executive Committee shall meet in addition
+to regular organization meetings. The officers and individual duties shall be:
 
 - President
   - Preside over all meetings
-  - Represent organization on campus
   - Ensure that the organization is operating in conformity with the standards
   set forth by James Madison University and the Office of Student Activities &
   Involvement
@@ -56,65 +62,45 @@ out organization goals. The officers and individual duties shall be:
 
 - Vice-president
   - Preside over meetings in the absence of the President
-  - Schedule meetings/events with appropriate University offices
-  - Coordinate organization promotion and publicity of events
+  - Coordinate organization online projects, such as open-source repositories
 
 - Secretary
-  - Maintain an accurate record of all organization meetings and post for
-members
-  - Maintain membership directory
-  - Correspond when necessary with University administration and other
-recognized organizations
+  - Maintain an accurate record of business meetings
+  - Correspond with members and send meeting announcements
 
 - Treasurer
   - Maintain accurate record of organization transactions
-  - Collect dues if required
+  - Collect dues if required, and record membership roster
   - Develop organization budget and present to membership for ¾ vote
   - Cosign organization checks with President
   - Arrange fundraising opportunities for the organization
-  - Solicits additional funding if needed from the Student Government
-Association in conjunction with the President
+
+All officers are expected to help promote the organization around campus, and
+take on additional duties as necessary for the operation of the UUG, as
+determined by their fellow officers.
 
 Officers may be removed from office by ½ vote of the other officers and ¾ of
 the general membership if actions are deemed inappropriate by the membership.
-The officer is permitted to speak before the Executive Committee and the
-general membership about the charges made concerning his/her performance. The
-officer is not permitted to participate in the deliberation of the Executive
-Committee regarding the charges.
 
 ## Article V - Adviser
 
-The adviser shall be a full or part time faculty or staff member at James
-Madison University. The adviser will assume those responsibilities as outlined
-in this constitution and/or found in University Policy No. 3101 entitled
-"Faculty Advisers to Student Organizations." The adviser will be selected by a
-½ vote of the Executive Committee and then presented to the general membership
-for a ¾ vote. Advisers not fulfilling responsibilities or abiding by the
-organization’s purpose may be removed from the position by a ½ vote of the
-Executive Committee. (List basic expectations the organization has of the
-adviser)
+The adviser shall be a faculty or staff member at James Madison University. The
+adviser will assume those responsibilities as outlined in this constitution
+and/or found in University Policy No. 3101 entitled "Faculty Advisers to
+Student Organizations." The adviser will be selected by a ½ vote of the
+Executive Committee and then presented to the general membership for a ¾ vote.
+Advisers not fulfilling responsibilities or abiding by the organization's
+purpose may be removed from the position by a ½ vote of the Executive
+Committee. (List basic expectations the organization has of the adviser)
 
 ## Article VI - Meetings
 
 The organization shall hold regular (weekly) meetings during the academic term
 except when holidays, examination periods or other events make meeting
 impractical.  Organization meeting day/time will be determined in the beginning
-of each semester by a ¾ vote of the general membership. Attendance at
-organization meetings is expected. If a member must miss a meeting,
-correspondence with the secretary is appreciated. A quorum shall consist of a
-simple majority of the membership plus two officers. Robert’s Rules of Order
-(newly revised) shall govern all meetings.
+of each semester by the officers, with advice from members.
 
-## Article VII - Finance
-
-The organization may establish reasonable dues that must be paid by all members.
-The amount of the dues will be determined in the beginning of the academic year
-by the Executive Committee and presented to the general membership for a ¾ vote.
-Dues must be paid by (enter week in semester). The treasurer shall maintain all
-financial records and shall cosign with the president for all organization
-transactions.
-
-## Article VIII - Hazing 
+## Article VII - Hazing 
 
 Unix Users Group, in keeping with JMU's expectations for a positive academic
 and social environment, unconditionally opposes hazing. No individual member of
@@ -182,14 +168,14 @@ of hazing by this organization or any of the members of this organization.  It
 will be the duty of the officers of the Unix Users Group to educate the
 membership of this policy.
 
-## Article IX - Amendments
+## Article VIII - Amendments
 
 Amendments to this constitution must be submitted in writing at a regular
 meeting of the organization. Said amendment(s) will be voted on at a subsequent
 meeting. In order to adopt the amendment, a vote of 2/3 of the general
 membership is necessary.
  
-## Article X - Ratification
+## Article IX - Ratification
 
 This constitution shall become effective upon approval by a ¾ vote of the
 membership. Ratified constitutions must be submitted to the Student Activities
