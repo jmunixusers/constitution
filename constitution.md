@@ -3,7 +3,7 @@
 October 25, 1999  
 Authored by David Wilburn,  
 Amended, May 1, 2003.  
-Amended, April 1, 2019.  
+Amended, April 17, 2019.  
 
 ## Article I - Name of Organization
 
@@ -28,13 +28,14 @@ gender identity, or political affiliation except in circumstances outlined in
 federal and state laws.
 
 The UUG strives to maintain an open door policy for its meetings, so membership
-is not required, and anyone from the university or wider community may attend.
-Membership dues will be set by the officers during the first business meeting,
-and membership will be open the first month of the semester. Dues paying
-members will be eligible to vote in matters when the officers deem it necessary.
-Members will also be eligible to run for officer positions.
+is not required for attendance, and anyone from the university or wider
+community may attend. Membership dues will be set by the officers during the
+first business meeting, and membership will be open the first month of the
+semester. Dues paying members will be eligible to vote in matters when the
+officers deem it necessary. Members will also be eligible to run for officer
+positions.
 
-Caution should be taken to not make dues a financial burden. Officers may grant
+Caution will be taken to not make dues a financial burden. Officers may grant
 exemptions on a case-by-case basis to members experiencing a hardship, with
 consideration given to the member's past and expected contributions to club
 meetings and projects.
@@ -53,7 +54,7 @@ Committee of the organization. The Executive Committee shall meet in addition
 to regular organization meetings. The officers and individual duties shall be:
 
 - President
-  - Preside over all meetings
+  - Set meeting schedule and preside over all meetings
   - Ensure that the organization is operating in conformity with the standards
   set forth by James Madison University and the Office of Student Activities &
   Involvement
@@ -71,7 +72,7 @@ to regular organization meetings. The officers and individual duties shall be:
 - Treasurer
   - Maintain accurate record of organization transactions
   - Collect dues if required, and record membership roster
-  - Develop organization budget and present to membership for ¾ vote
+  - Develop organization budget for club approval
   - Cosign organization checks with President
   - Arrange fundraising opportunities for the organization
 
@@ -95,10 +96,15 @@ Committee. (List basic expectations the organization has of the adviser)
 
 ## Article VI - Meetings
 
-The organization shall hold regular (weekly) meetings during the academic term
-except when holidays, examination periods or other events make meeting
-impractical.  Organization meeting day/time will be determined in the beginning
-of each semester by the officers, with advice from members.
+The organization shall hold regular weekly meetings during the academic term
+except when holidays, examination periods, or other events make meeting
+impractical. The meeting day/time will be determined at the beginning of each
+semester by the officers, with advice from members.
+
+The officers shall hold business meetings as necessary through the semester,
+to plan content and strategy for the regular meetings and club projects. The
+outcomes and decisions of these meetings shall be presented to the club members
+at a regular meeting as necessary and appropriate.
 
 ## Article VII - Hazing 
 
@@ -174,6 +180,11 @@ Amendments to this constitution must be submitted in writing at a regular
 meeting of the organization. Said amendment(s) will be voted on at a subsequent
 meeting. In order to adopt the amendment, a vote of 2/3 of the general
 membership is necessary.
+
+In some situations, changes to the constitution may be mandated by the Office
+of Student Activities and Involvement in order to retain good standing. These
+changes should be announced at a regular meeting of the organization; however,
+they do not need to be voted on by the membership.
  
 ## Article IX - Ratification
 
