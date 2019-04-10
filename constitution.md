@@ -101,6 +101,7 @@ removal proceedings. The adviser shall have the following responsibilites:
 - Ensure the officers provide effective leadership of the club
 - Exercise the powers of the officers in case of an emergency
 - Call for officer nominations and conduct elections annually
+- Audit club finances
 
 ## Article VI - Meetings
 
@@ -169,7 +170,7 @@ psychological harm or substantial emotional strain; or any other activity which
 may result in physical injury or endanger the health or life of the individual
 being hazed.
 
-An individual cannot consent to being hazed; a victim's voluntary or willfulr
+An individual cannot consent to being hazed; a victim's voluntary or willful
 participation in hazing activities will not be considered evidence that a
 violation of this policy did not occur. Section 18.2-56 of the Code of Virginia
 declares hazing illegal, establishes conditions for civil and criminal
