@@ -42,7 +42,9 @@ meetings and projects.
 
 Membership will be revoked by ½ vote of officers plus ¾ vote from the general
 membership if actions are deemed inappropriate by the membership. Dues are
-non-refundable, regardless of voluntary membership termination or revocation.
+non-refundable, regardless of voluntary membership termination or revocation.  
+Once a person's membership has been revoked (whether paid or not), they shall
+not attend any future meetings.
 
 ## Article IV - Officers
 
@@ -85,14 +87,20 @@ the general membership if actions are deemed inappropriate by the membership.
 
 ## Article V - Adviser
 
-The adviser shall be a faculty or staff member at James Madison University. The
-adviser will assume those responsibilities as outlined in this constitution
+The adviser(s) shall be a faculty or staff member at James Madison University.
+The adviser will assume those responsibilities as outlined in this constitution
 and/or found in University Policy No. 3101 entitled "Faculty Advisers to
 Student Organizations." The adviser will be selected by a ½ vote of the
 Executive Committee and then presented to the general membership for a ¾ vote.
 Advisers not fulfilling responsibilities or abiding by the organization's
-purpose may be removed from the position by a ½ vote of the Executive
-Committee. (List basic expectations the organization has of the adviser)
+purpose may be removed from the position by a ½ vote of the officers. The
+officers must have a bonafide offer from a substitute adviser before beginning
+removal proceedings. The adviser shall have the following responsibilites:
+
+- Call business meetings as necessary
+- Ensure the officers provide effective leadership of the club
+- Exercise the powers of the officers in case of an emergency
+- Call for officer nominations and conduct elections annually
 
 ## Article VI - Meetings
 
@@ -161,7 +169,7 @@ psychological harm or substantial emotional strain; or any other activity which
 may result in physical injury or endanger the health or life of the individual
 being hazed.
 
-An individual cannot consent to being hazed; a victim’s voluntary or willfulr
+An individual cannot consent to being hazed; a victim's voluntary or willfulr
 participation in hazing activities will not be considered evidence that a
 violation of this policy did not occur. Section 18.2-56 of the Code of Virginia
 declares hazing illegal, establishes conditions for civil and criminal
