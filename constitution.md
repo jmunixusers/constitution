@@ -4,6 +4,11 @@ October 25, 1999
 Authored by David Wilburn,  
 Amended, May 1, 2003.  
 Amended, April 17, 2019.  
+Amended, [PLACEHOLDER DATE]
+
+<br></br>
+
+# Articles
 
 ## Article I - Name of Organization
 
@@ -56,18 +61,21 @@ Committee of the organization. The Executive Committee shall meet in addition
 to regular organization meetings. The officers and individual duties shall be:
 
 - President
+
   - Set meeting schedule and preside over all meetings
   - Ensure that the organization is operating in conformity with the standards
-  set forth by James Madison University and the Office of Student Activities &
-  Involvement
+    set forth by James Madison University and the Office of Student Activities &
+    Involvement
   - Cosign organization checks with Treasurer
   - Maintain communication with organization adviser
 
 - Vice-president
+
   - Preside over meetings in the absence of the President
   - Coordinate organization online projects, such as open-source repositories
 
 - Secretary
+
   - Maintain an accurate record of business meetings
   - Correspond with members and send meeting announcements
 
@@ -115,7 +123,7 @@ to plan content and strategy for the regular meetings and club projects. The
 outcomes and decisions of these meetings shall be presented to the club members
 at a regular meeting as necessary and appropriate.
 
-## Article VII - Hazing 
+## Article VII - Hazing
 
 Unix Users Group, in keeping with JMU's expectations for a positive academic
 and social environment, unconditionally opposes hazing. No individual member of
@@ -179,7 +187,7 @@ found guilty of hazing in civil or criminal court.
 
 It is hereby incorporated as part of this constitution and will serve as a guide
 for action by the university and the Unix Users Group if there is an instance
-of hazing by this organization or any of the members of this organization.  It
+of hazing by this organization or any of the members of this organization. It
 will be the duty of the officers of the Unix Users Group to educate the
 membership of this policy.
 
@@ -194,9 +202,21 @@ In some situations, changes to the constitution may be mandated by the Office
 of Student Activities and Involvement in order to retain good standing. These
 changes should be announced at a regular meeting of the organization; however,
 they do not need to be voted on by the membership.
- 
+
 ## Article IX - Ratification
 
 This constitution shall become effective upon approval by a ¾ vote of the
 membership. Ratified constitutions must be submitted to the Student Activities
 & Involvement office within 10 days for final approval.
+
+<br></br>
+
+# Amendments
+
+## First Amendment
+
+As a member of this group, thou shall not judge another, member or not, on the
+basis of their appearance, political views, or spiritual beliefs. Thou shall
+feel encouraged to engage in discourse and in the exchange of ideas, and should
+thee find disfavor in the held opinion of a separate it may appropriately be
+their choice of editor.
