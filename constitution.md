@@ -201,9 +201,21 @@ In some situations, changes to the constitution may be mandated by the Office
 of Student Activities and Involvement in order to retain good standing. These
 changes should be announced at a regular meeting of the organization; however,
 they do not need to be voted on by the membership.
- 
+
 ## Article IX - Ratification
 
 This constitution shall become effective upon approval by a ¾ vote of the
 membership. Ratified constitutions must be submitted to the Student Activities
 & Involvement office within 10 days for final approval.
+
+<br></br>
+
+# Amendments
+
+## First Amendment
+
+As a member of this group, thou shall not judge another, member or not, on the
+basis of their appearance, political views, or spiritual beliefs. Thou shall
+feel encouraged to engage in discourse and in the exchange of ideas, and should
+thee find disfavor in the held opinion of a separate it may appropriately be
+their choice of editor.
