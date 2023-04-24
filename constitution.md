@@ -23,9 +23,9 @@ to the global computing community.
 
 Membership in this organization is open to all JMU students and will not be
 restricted on the basis of age, ability, ethnicity, gender, national origin,
-race, color, religion, national origin, veteran status, sexual orientation,
-gender identity, or political affiliation except in circumstances outlined in
-federal and state laws.
+race, color, religion, veteran status, sexual orientation, gender identity,
+or political affiliation except in circumstances outlined in federal and
+state laws.
 
 The UUG strives to maintain an open door policy for its meetings, so membership
 is not required for attendance, and anyone from the university or wider
@@ -90,12 +90,14 @@ the general membership if actions are deemed inappropriate by the membership.
 The adviser(s) shall be a faculty or staff member at James Madison University.
 The adviser will assume those responsibilities as outlined in this constitution
 and/or found in University Policy No. 3101 entitled "Faculty Advisers to
-Student Organizations." The adviser will be selected by a ½ vote of the
-Executive Committee and then presented to the general membership for a ¾ vote.
-Advisers not fulfilling responsibilities or abiding by the organization's
-purpose may be removed from the position by a ½ vote of the officers. The
-officers must have a bonafide offer from a substitute adviser before beginning
-removal proceedings. The adviser shall have the following responsibilites:
+Student Organizations."
+
+The adviser will be selected by a ½ vote of the Executive Committee and then
+presented to the general membership for a ¾ vote. Advisers not fulfilling
+responsibilities or abiding by the organization's purpose may be removed from
+the position by a ½ vote of the officers. The officers must have a bonafide
+offer from a substitute adviser before beginning removal proceedings. The
+adviser shall have the following responsibilites:
 
 - Call business meetings as necessary
 - Ensure the officers provide effective leadership of the club
@@ -115,7 +117,7 @@ to plan content and strategy for the regular meetings and club projects. The
 outcomes and decisions of these meetings shall be presented to the club members
 at a regular meeting as necessary and appropriate.
 
-## Article VII - Hazing 
+## Article VII - Hazing
 
 Unix Users Group, in keeping with JMU's expectations for a positive academic
 and social environment, unconditionally opposes hazing. No individual member of
@@ -125,8 +127,8 @@ defined as hazing.
 Unix Users Group opposes any situation created intentionally to produce mental
 or physical discomfort, embarrassment, harassment or ridicule to its members
 or potential members. In addition, no individual nor recognized organization
-may by physical or mental stress or by subtle or covert technique, impair, make
-captive, or destroy an individuals' freedom of thought and choice.
+may, by physical or mental stress or by subtle or covert technique, impair,
+make captive, or destroy an individual's freedom of thought and choice.
 
 J17-100 Hazing - The university prohibits any situation created intentionally
 to produce mental or physical discomfort, embarrassment, harassment or ridicule
@@ -194,9 +196,10 @@ In some situations, changes to the constitution may be mandated by the Office
 of Student Activities and Involvement in order to retain good standing. These
 changes should be announced at a regular meeting of the organization; however,
 they do not need to be voted on by the membership.
- 
+
 ## Article IX - Ratification
 
 This constitution shall become effective upon approval by a ¾ vote of the
-membership. Ratified constitutions must be submitted to the Student Activities
-& Involvement office within 10 days for final approval.
+membership. Ratified constitutions must be uploaded to the Be Involved
+organization page in a timely manner after substantial amendments and
+submitted each year with Annual Organization Registration.
