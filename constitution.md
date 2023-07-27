@@ -203,3 +203,9 @@ This constitution shall become effective upon approval by a ¾ vote of the
 membership. Ratified constitutions must be uploaded to the Be Involved
 organization page in a timely manner after substantial amendments and
 submitted each year with Annual Organization Registration.
+
+## Article X - Dissolution of Organization
+
+In the event of dissolution of the Unix Users Group, the final officers and
+advisors shall decide how to distribute remaining funds to organizations such
+as other Computer Science clubs or local charities.
